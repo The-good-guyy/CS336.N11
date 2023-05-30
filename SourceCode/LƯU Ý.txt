@@ -1,0 +1,2 @@
+Source code nhóm em đã cắt bỏ phần dataset cũng như các file npy chứa các đặc trưng đã được trích xuất nhằm phù hợp với dung lượng tối đa có thể nộp bài của website môn học.
+Link full source code: https://github.com/iamthedh7/ImageRetrievalMachine
